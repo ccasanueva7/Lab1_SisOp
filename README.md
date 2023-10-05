@@ -1,6 +1,6 @@
 # Lab1_SisOp
 Trabajo practico de la materia Sistemas Operativos I de la carrera Ingenieria en Computacion FCEFyN <br>
-#Consigna
+# Consigna
 Archivo rdcproc.pdf <br>
 # ¿Como funciona?
 Para correr el programa poner en la terminal dentro del directorio donde se encuentra la carpeta <br>
